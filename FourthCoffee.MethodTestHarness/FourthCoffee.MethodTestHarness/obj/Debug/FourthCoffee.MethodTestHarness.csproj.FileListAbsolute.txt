@@ -1,0 +1,7 @@
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\bin\Debug\FourthCoffee.MethodTestHarness.exe.config
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\bin\Debug\FourthCoffee.MethodTestHarness.exe
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\bin\Debug\FourthCoffee.MethodTestHarness.pdb
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\obj\Debug\FourthCoffee.MethodTestHarness.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\obj\Debug\FourthCoffee.MethodTestHarness.csproj.CoreCompileInputs.cache
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\obj\Debug\FourthCoffee.MethodTestHarness.exe
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\obj\Debug\FourthCoffee.MethodTestHarness.pdb
